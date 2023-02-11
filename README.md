@@ -10,5 +10,6 @@ from: https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-
 6f16bf24dd64/resource/80894b62-7b45-4150-946d-ab756814c4be 
 
 # Objective
-The task is to predict the CO2 emission of the vehicles and to classify the vehicles based on the 
-categorical variables
+The task is to predict the CO2 emission of the vehicles, classify the vehicles based on the 
+categorical variables and  form group to determine which categorical variable best describes the groups 
+formed. 
