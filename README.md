@@ -1,6 +1,5 @@
-# Fuel-Consumption-Project
 
-Overview 
+# Overview 
 Fuel consumption has implications to climate change and the general environment hence the 
 need for accurate prediction and classification of motor vehicles. 
 
